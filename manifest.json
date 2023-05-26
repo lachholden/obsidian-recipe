@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-recipe",
+	"name": "Recipes",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Adds some extra features to make cooking easier with recipes stored in Obsidian.",
+	"author": "lachholden",
+	"authorUrl": "https://github.com/lachholden",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
